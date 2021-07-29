@@ -1,0 +1,56 @@
+ /*body section*/
+ body{
+    background-color: whitesmoke;margin: 0;
+}
+/*xx body section xx*/
+header h1{margin: 0;}
+header{background-color: brown;}
+footer{background-color: wheat; clear: both;}
+
+header p {text-align: center;}
+header h1 {text-align: center;}
+    
+
+
+
+/* nav section*/
+nav, ul{text-align: center;} 
+
+li{list-style-type: none;
+    padding: 0.1rem;
+    display: inline;
+}
+
+    ul {padding-inline-start: 0;
+    
+ }
+ /*xx nav section xx*/
+
+ a:link, a:visited{text-decoration: none;
+    padding: 0.5rem;color: cornsilk;
+    background-color: darkmagenta;border-radius: 5px;
+    text-transform: uppercase;
+}
+ 
+ a:hover{
+     background-color: black;
+     color: whitesmoke;
+ }
+ /*home banner section*/
+ .home_banner{
+    height: 25rem;
+    width: 50rem;
+    border-radius: 00.5rem;
+}
+img {
+    text-align: center;
+    align-self: center;
+}
+section {
+    text-align: center;
+}
+    
+    
+
+ /* xx home banner section xx*/
+ 
